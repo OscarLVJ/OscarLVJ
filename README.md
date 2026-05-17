@@ -1,4 +1,8 @@
-## Hi there 👋
+
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="/assets/ghProfileHeader.png"></div>
+
+
 
 <!--
 **OscarLVJ/OscarLVJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
