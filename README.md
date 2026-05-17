@@ -1,8 +1,9 @@
-
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="/assets/ghProfileHeader.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="/assets/geminiEnCrop.png"></div>
 
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&sice=25&pause=1000&color=2A2A2A&background=FFFFFFDD&center=true&vCenter=true&width=435&lines=Oscar+Luis+Valverde+Jiménez;Web+developer+•React+•Node+•Typescript+•Nextjs+•Neon+•Supabase+•MongoDB+•Oracle" alt="Typing SVG" /></a>
+</div>
 
 <!--
 **OscarLVJ/OscarLVJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
