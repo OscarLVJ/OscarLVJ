@@ -1,6 +1,6 @@
 
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="/assets/ghProfileHeader.png"></div>
+<div align="center"  height="50%"><img width="100%" height="100%" alt="welcome to my profile!" src="/assets/ghProfileHeader.png"></div>
 
 
 
