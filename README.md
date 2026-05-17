@@ -1,8 +1,11 @@
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="/assets/geminiEncCrop.png"></div>
-
 <div align="center">
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&sice=25&pause=1000&color=2A2A2A&background=FFFFFFDD&center=true&vCenter=true&width=435&lines=Oscar+Luis+Valverde+Jiménez;Web+developer;•React+•Node+•Typescript+•Nextjs+•Neon+•Supabase+•MongoDB+•Oracle" alt="Typing SVG" /></a>](https://readme-typing-svg.demolab.com/demo/?font=Cormorant+Garamond&weight=600&size=25&letterSpacing=0.05em&color=2A2A2A&background=FFFFFFDD&center=true&vCenter=true&width=800&lines=%C3%93scar+Luis+Valverde+Jim%C3%A9nez;Web+Developer;%E2%80%A2React+%E2%80%A2Node+%E2%80%A2Typescript+%E2%80%A2Nextjs+%E2%80%A2Neon+%E2%80%A2Supabase+%E2%80%A2MongoDB+%E2%80%A2Oracle)
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&letterSpacing=0.05em&pause=300&color=FFFFFF&center=true&vCenter=true&width=1100&lines=%C3%93scar+Luis+Valverde+Jim%C3%A9nez;Web+Developer;Love+Soccer">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&letterSpacing=0.05em&pause=300&color=2A2A2A&center=true&vCenter=true&width=1100&lines=%C3%93scar+Luis+Valverde+Jim%C3%A9nez;Web+Developer;Love+Soccer">
+      <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=30&letterSpacing=0.05em&pause=300&color=2A2A2A&center=true&vCenter=true&width=1100&lines=%C3%93scar+Luis+Valverde+Jim%C3%A9nez;Web+Developer;Love+Soccer" alt="Óscar Luis Valverde Jiménez + Web Developer + Love soccer" />
+    </picture>
+  </a>
 </div>
 
 <!--
