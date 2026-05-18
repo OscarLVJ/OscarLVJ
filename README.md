@@ -115,7 +115,7 @@ Recently graduated from the **Oracle Next Education Program**, and currently com
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [linkedin.com/in/óscar-valverde-jiménez/](https://linkedin.com/in/óscar-valverde-jiménez)
 
 ---
 
