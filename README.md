@@ -1,3 +1,4 @@
+<div id="top"></div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
@@ -141,9 +142,17 @@ Recently graduated from the **Oracle Next Education Program**, and currently com
     </td>
   </tr>
 </table>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=C5C6C7&style=flat&logo" alt="back to top" /></a></p>
+
+![User Profile:O_L13](https://img.shields.io/badge/User%20Profile%3AO%5F%5FL13-gray?style=for-the-badge)
+      
+
 <div align="center">
   <h3>🎧 Now Playing</h3>
   <img src="https://spotify.oscarvalverdejimenez.workers.dev/" alt="Spotify Now Playing" width="420" />
+  <p>Send me a message with any music recommendations!</p>
+  **`I usually listen to playlists made by other people or my friends.`** 
 </div>
 <!--
 **OscarLVJ/OscarLVJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
