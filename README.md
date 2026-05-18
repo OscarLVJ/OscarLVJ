@@ -152,7 +152,8 @@ Recently graduated from the **Oracle Next Education Program**, and currently com
   <h3>🎧 Now Playing</h3>
   <img src="https://spotify.oscarvalverdejimenez.workers.dev/" alt="Spotify Now Playing" width="420" />
   <p>Send me a message with any music recommendations!</p>
-  **`I usually listen to playlists made by other people or my friends.`** 
+  
+  ![I usually listen to playlists made by other people or my friends.](https://img.shields.io/badge/I%20usually%20listen%20to%20playlists%20made%20by%20other%20people%20or%20my%20friends.-lightgray?style=for-the-badge)
 </div>
 <!--
 **OscarLVJ/OscarLVJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
